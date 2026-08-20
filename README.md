@@ -1,4 +1,4 @@
-# ⚛️ React Projects
+# React Projects
 
 A collection of React and TypeScript projects built to strengthen my
 frontend development skills through practical, hands-on applications.
@@ -8,7 +8,7 @@ projects in which I apply React concepts to realistic use cases such as
 API integration, state management, user interaction and data
 transformation.
 
-## 🎯 Purpose
+## Purpose
 
 The goal of this repository is to develop a deeper understanding of
 modern React development and gradually build more complex applications.
@@ -35,7 +35,7 @@ as custom hooks, routing, testing and more complex state management.
 
 ------------------------------------------------------------------------
 
-## 📂 Projects
+## Projects
 
 ### 🛒 Smart Grocery Planner
 
@@ -65,7 +65,7 @@ list.
 
 ------------------------------------------------------------------------
 
-## 🧱 Repository structure
+## Repository structure
 
 ``` text
 react-projects/
@@ -86,7 +86,7 @@ implementation.
 
 ------------------------------------------------------------------------
 
-## 🧠 Learning approach
+## 🧠 Learning approach 🧠
 
 For each project I aim to understand not only **how** something works,
 but also **why** it is implemented that way.
@@ -116,7 +116,7 @@ frontend applications.
 
 ------------------------------------------------------------------------
 
-## 🛠 Tech stack
+## Tech stack
 
 The main technologies used throughout this repository are:
 
@@ -134,7 +134,7 @@ advanced.
 
 ------------------------------------------------------------------------
 
-## 📈 Progress
+## Progress
 
   Project                 React   TypeScript   API   State   Status
   ----------------------- ------- ------------ ----- ------- --------------
@@ -143,7 +143,7 @@ advanced.
 
 ------------------------------------------------------------------------
 
-## 🔮 Next steps
+## Next steps
 
 Future projects and improvements will explore topics such as:
 
