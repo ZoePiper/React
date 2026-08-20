@@ -8,6 +8,8 @@ Het project is gebouwd om React en TypeScript praktisch toe te passen,
 met aandacht voor componentarchitectuur, API-integratie, state
 management en foutafhandeling.
 
+<img width="553" alt="Samrt Grocery Planner" src="https://user-images.githubusercontent.com/38401274/209582797-26e4acbc-40d2-43f6-8de3-33f84d4dcf69.png">
+
 ## ✨ Functionaliteiten
 
 -   Producten ophalen vanuit een externe API
