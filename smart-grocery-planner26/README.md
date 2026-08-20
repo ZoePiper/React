@@ -337,6 +337,7 @@ React rendert opnieuw
 ```
 
 ## ⏳ Loading state
+<img src="https://github.com/ZoePiper/React/blob/main/smart-grocery-planner26/images/loading.png">
 
 Tijdens het ophalen van API-data staat:
 
@@ -351,6 +352,7 @@ setLoading(false);
 ```
 
 ## ❌ Error handling
+<img src="https://github.com/ZoePiper/React/blob/main/smart-grocery-planner26/images/Api_Niet_Gevonden.png">
 
 De API-call gebruikt:
 
