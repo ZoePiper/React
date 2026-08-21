@@ -36,6 +36,9 @@ as custom hooks, routing, testing and more complex state management.
 ------------------------------------------------------------------------
 
 ## Projects
+## Study tracker is still a work in progress
+
+For beginners to map out there path through free software tutorials to get sufficient knowledge. 
 
 ### 🛒 Smart Grocery Planner
 
