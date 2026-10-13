@@ -1,0 +1,32 @@
+.summary-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+.summary-card {
+  padding: 20px;
+  background-color: #f8f9fc;
+  border: 1px solid #e2e5ec;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.summary-card.healthy {
+  background-color: #f0fdf4;
+  border-color: #86efac;
+  color: #166534;
+}
+
+.summary-card.warning {
+  background-color: #fffbeb;
+  border-color: #fcd34d;
+  color: #92400e;
+}
+
+.summary-card.critical {
+  background-color: #fef2f2;
+  border-color: #fca5a5;
+  color: #991b1b;
+}
